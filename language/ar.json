@@ -1,51 +1,51 @@
 {
   "semantics": [
     {
-      "label": "Title",
-      "description": "Title for the export page.",
+      "label": "العنوان",
+      "description": "عنوان صفحة التصدير.",
       "default": "Document Export"
     },
     {
-      "label": "Description",
-      "description": "Description of the export page.",
+      "label": "الوصف",
+      "description": "وصف صفحة التصدير",
       "default": "On this page you can choose to export your text, goals and goals assessments."
     },
     {
-      "label": "Create document button label",
-      "description": "Text that will be displayed on the \"Create document\"-button.",
+      "label": "لافتة زر انشاء مستند",
+      "description": "النص الذي سيتم عرضه على زر \" انشاء مستند \"",
       "default": "Create document"
     },
     {
-      "label": "Submit text button",
-      "description": "Text that will be displayed on the \"Submit\"-button.",
+      "label": "نص زر الارسال",
+      "description": "النص الذي سيتم عرضه على زر \"ارسال \".",
       "default": "Submit!"
     },
     {
-      "label": "Submit success label",
+      "label": "لافتة نجاح الارسال",
       "default": "Your report was submitted successfully!"
     },
     {
-      "label": "Select all exportable text button label",
-      "description": "Text that will be displayed on the \"Select all text\"-button.",
+      "label": "لافتة زر حدد كل النص القابل للتصدير",
+      "description": "النص الذي سيتم عرضه على زر \" تحديد كل النص \".",
       "default": "Select all text"
     },
     {
-      "label": "Export text button label",
-      "description": "Text that will be displayed on the \"Export text\"-button.",
+      "label": "لافتة زر تصدير النص",
+      "description": "النص الذي سيتم عرضه على زر \"تصدير النص \".",
       "default": "Export text"
     },
     {
-      "label": "Label for help text",
-      "description": "Label for showing additional helpful information to the user.",
+      "label": "لافتة للنص المساعد",
+      "description": "لافتة لعرض معلومات مفيدة إضافية للمستخدم.",
       "default": "More information"
     },
     {
-      "label": "Fill in additional help information",
-      "description": "Here you can fill in additional helpful information for the user."
+      "label": "املأ معلومات المساعدة الإضافية",
+      "description": "هنا يمكنك ملء معلومات مفيدة إضافية للمستخدم."
     },
     {
-      "label": "Required input missing text",
-      "description": "An error message which will be displayed if one or more required input fields have not been filled.",
+      "label": "نص فقدان الادخال المطلوب",
+      "description": "رسالة خطأ يتم عرضها إذا لم يتم ملء حقل إدخال واحد مطلوب أو أكثر.",
       "default": "One or more required input fields need to be filled."
     }
   ]
